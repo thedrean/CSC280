@@ -1,0 +1,5 @@
+print range(8)
+
+
+
+
